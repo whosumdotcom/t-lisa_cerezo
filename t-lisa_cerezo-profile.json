@@ -1,0 +1,36 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-04-07T22:16:05Z",
+  "IdClaims": [
+    {
+      "Claim": "t:lisa_cerezo"
+    },
+    {
+      "Claim": "mdon:@lisaaceee@mastodon.social"
+    },
+    {
+      "Claim": "med:lisacerezo"
+    },
+    {
+      "Claim": "spout:lisacerezo"
+    },
+    {
+      "Claim": "post:lisacerezo"
+    }
+  ],
+  "IdDisclaims": [
+    {
+      "Claim": "ss:no-account"
+    }
+  ],
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "f963f8f3fadfb8ed49429fc7",
+    "Timestamp": "2023-04-07T22:34:20Z",
+    "Signature": "75eb3a229cc0e022f85cea5adaafad7bf963f33fd3d7c604d92a6f08b7f9f412e2e34c2fe2b66eda0c883305aab4078cd61d3411e6cf868bbfddd09b9617e724cd5e00695d028db04875d845367b1329cf765b74c217fc730ab65829cd4e4f16b7609a2e33300a33408f80e0b57e1708ec326d50d0b9cb5d6cb98126cdb81f250e3ac2be005bd2e9509f2ecd43b14575d6baa823864b2cd0f8845e2c22f6174720c69afe334e1473022d800994b4900921343ef7fe6df1051bba8f74389a963c36206c8df35511711d7291cd7fbf3188c4e642f2750b3e702bd5322a7c9b4c27a0d6965da3cf8147005d4d095e09bb509f4df8ebb931ec85246bb9bbab38c965"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "2ec777fcdbc133cce5cadc702ceeb6fa28b53e0ec20e242a66e0a4e2fd630b9f",
+  "ContentToHash": "v1|mdon:@lisaaceee@mastodon.social,med:lisacerezo,post:lisacerezo,spout:lisacerezo,ss:no-account,t:lisa_cerezo|2023-04-07T22:16:05Z"
+}
